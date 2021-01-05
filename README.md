@@ -22,6 +22,13 @@ $ go version
 $ go fmt [filename]
 ```
 
+#### Create a Platform Independent Build
+
+```
+$ go build [filename]
+$ ./[filename]
+```
+
 #### Execute a golang program
 
 ```
